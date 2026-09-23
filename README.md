@@ -12,7 +12,7 @@ One prompt in, and you get: Figma **variables** (color + string), a reusable **`
 - **`Color Tag` component** — a reusable swatch + label badge, created from scratch on first use if your file doesn't have one yet
 - **`Color Section`** — a documented block per palette (title, description, primary swatch, full tonal scale), auto-assembled into a page-level `Documentation` frame with a wrapping 3-column grid
 
-![Color Tag component](./assets/color-tag-component.png)
+![Color Tag component](./assets/component-color-tag.png)
 
 ## Why
 
